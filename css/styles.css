@@ -35,6 +35,50 @@ p {
   padding:0 20px;
 }
 
+.text-primary {
+  color:#f7c08a;
+}
+
+.lead {
+  font-size: 20px;
+}
+
+.btn {
+  display: inline-block;
+  font-size: 18px;
+  color: #fff;
+  font-family: inherit;
+  background:#333;
+  padding:13px 20px;
+  border:none;
+  cursor: pointer;
+}
+
+.btn.btn-light {
+  background:#f4f4f4;
+  color:#333;
+}
+
+.btn:hover {
+  color:#333;
+  background:#f7c08a;
+}
+
+.bg-dark {
+  background:#333;
+  color:#fff;
+}
+
+.bg-light {
+  background:#f4f4f4;
+  color:#333;
+}
+
+.bg-primary {
+  background:#f7c08a;
+  color:#333;
+}
+
 /* navbar */
 
 #navbar {
