@@ -48,15 +48,3 @@
   padding-bottom: 30px;
 }
 
-/* features boxes */
-
-.box {
-  float:left;
-  width:33.333%;
-  padding:50px;
-  text-align: center;
-}
-
-.box i {
-  margin-bottom:10px;
-}
