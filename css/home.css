@@ -21,14 +21,12 @@
   line-height: 1.7em;
 }
 
-
 /* home info */
 
 #home-info {
   height: 400px;
 
 }
-
 
 #home-info .info-img {
   float:left;
@@ -37,9 +35,8 @@
   min-height: 100%;
 }
 
-
 #home-info .info-content{
-  float: right;;
+  float: right;
   width:50%;
   text-align: center;
   overflow: hidden;
