@@ -1,0 +1,22 @@
+/* about info */
+
+#about-info .info-left {
+  float:left;
+  width: 50%;
+  min-height: 100%;
+}
+
+#about-info .info-right {
+  float: right;
+  width: 50%;
+  min-height: 100%;
+}
+
+#about-info .info-right img {
+  max-width:70%;
+  display:block;
+  margin: auto;
+  height:auto;
+  border-radius: 50%;
+}
+
