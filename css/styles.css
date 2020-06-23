@@ -43,6 +43,10 @@ p {
   font-size: 20px;
 }
 
+.clr {
+  clear: both;
+}
+
 .btn {
   display: inline-block;
   font-size: 18px;
@@ -116,4 +120,13 @@ p {
 #navbar ul li a.current {
   background:#444;
   color:#f7c08a;
+}
+
+/* footer */
+
+#main-footer {
+  text-align: center;
+  background: #444;
+  color:#fff;
+  padding:20px;
 }
