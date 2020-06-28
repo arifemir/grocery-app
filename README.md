@@ -1,6 +1,6 @@
 <h1>Grocery App</h1>
 <p>
-this project for a  <b>beginners</b> its not include responsive design or new css features but its good example for beginner
+this project for a  <b>beginners</b> its  include responsive design ,not using new css features but its good example for beginner
 </p>
 <h2>Layout</h2>
 <p>floats used for layout</p>
