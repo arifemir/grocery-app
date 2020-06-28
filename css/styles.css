@@ -43,6 +43,11 @@ p {
   font-size: 20px;
 }
 
+.l-heading {
+  font-size: 40px;
+  line-height:1.2;
+}
+
 .clr {
   clear: both;
 }
@@ -81,10 +86,6 @@ p {
 .bg-primary {
   background:#f7c08a;
   color:#333;
-}
-
-.lg-heading {
-  font-size:40px;
 }
 
 /* boxes */

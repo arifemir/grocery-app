@@ -1,0 +1,21 @@
+/* showcase */
+#showcase {
+  height: 100%;
+}
+
+#showcase .showcase-content {
+  padding-top:70px;
+  padding-bottom:50px;
+}
+
+/* home info */
+
+#home-info .info-img {
+  display: none;
+}
+
+#home-info .info-content {
+  float: none;
+  width: 100%;
+  padding-top:20px;
+}

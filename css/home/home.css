@@ -1,7 +1,7 @@
 /* showcase */
 
 #showcase {
-  background: url('../img/grocery_bg.jpg') no-repeat center center/cover;
+  background: url('../../img/grocery_bg.jpg') no-repeat center center/cover;
   height: 600px;
 }
 
@@ -25,13 +25,12 @@
 
 #home-info {
   height: 400px;
-
 }
 
 #home-info .info-img {
   float:left;
   width:50%;
-  background:url('../img/grocery_outside_main.jpg') no-repeat center center/cover;
+  background:url('../../img/grocery_outside_main.jpg') no-repeat center center/cover;
   min-height: 100%;
 }
 

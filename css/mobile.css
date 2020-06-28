@@ -1,0 +1,24 @@
+/* Navbar */
+#navbar .logo {
+  float: none;
+  text-align: center;
+}
+#navbar ul {
+  padding-bottom: 10px;
+}
+#navbar ul , #navbar ul li {
+  float: none;
+}
+
+#navbar ul li a {
+  padding: 8px;
+  border-bottom:#444 solid 1px;
+}
+
+
+/* boxes */
+
+.box {
+  float: none;
+  width:100%;
+}
